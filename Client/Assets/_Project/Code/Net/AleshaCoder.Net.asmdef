@@ -1,0 +1,18 @@
+{
+    "name": "AleshaCoder.Net",
+    "rootNamespace": "AleshaCoder.Net",
+    "references": [
+        "GUID:7d8788162c0190c4c8b801543ada1607",
+        "GUID:d32d7b748254edb4dba8d4fe96f0064b",
+        "GUID:04e8f1b7ffc4467bb4f36e917200762c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

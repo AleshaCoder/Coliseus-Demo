@@ -1,0 +1,18 @@
+{
+    "name": "AleshaCoder.CompositionRoot",
+    "rootNamespace": "AleshaCoder.CompositionRoot",
+    "references": [
+        "GUID:5fd5fc36d8ea489a8f489b0effd9deda",
+        "GUID:90e3360979bb4551ab97ee7b3d988001",
+        "GUID:adb5df2e2b723754b8d2e6d931e53026"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

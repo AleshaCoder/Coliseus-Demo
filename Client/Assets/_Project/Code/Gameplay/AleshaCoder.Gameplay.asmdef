@@ -1,0 +1,16 @@
+{
+    "name": "AleshaCoder.Gameplay",
+    "rootNamespace": "AleshaCoder.Gameplay",
+    "references": [
+        "GUID:5fd5fc36d8ea489a8f489b0effd9deda"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

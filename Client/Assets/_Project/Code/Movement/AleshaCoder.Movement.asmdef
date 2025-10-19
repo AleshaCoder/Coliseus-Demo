@@ -1,0 +1,8 @@
+{
+  "name": "AleshaCoder.Movement",
+  "rootNamespace": "AleshaCoder.Movement",
+  "references": [
+    "GUID:d32d7b748254edb4dba8d4fe96f0064b",
+    "GUID:adb5df2e2b723754b8d2e6d931e53026"    
+  ]
+}

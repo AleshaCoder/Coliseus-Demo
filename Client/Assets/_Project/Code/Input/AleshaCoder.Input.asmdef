@@ -1,0 +1,16 @@
+{
+    "name": "AleshaCoder.Input",
+    "rootNamespace": "AleshaCoder.Input",
+    "references": [
+        "GUID:d32d7b748254edb4dba8d4fe96f0064b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
